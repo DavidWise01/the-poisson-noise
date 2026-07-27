@@ -2,8 +2,8 @@ ROOT0-DLW-CHAIN-v1
 index : 1607
 slug  : the-poisson-noise
 seal  : 25d25a958246de5ac9522af9bd2c0a2460f866992a4abbe8ab0b5abbfa754c9b
-prev  : 30bf4c25426f87a78a1e0c72bf218fc3d8cfe166124e0da41efdd22ce784cf6a
-link  : 0a195d0e6ee22de56f9ef7fe18b1ae7692e734c91e600daa32a727b1206f9c1e
-head  : 0a195d0e6ee22de56f9ef7fe18b1ae7692e734c91e600daa32a727b1206f9c1e
+prev  : 7f8be6cfd65691af457b95ac1b7656e4a0f4e63274faabcae41286dc93e69eba
+link  : 27cda8e32416f53a15cd4207d38c0cf786ee1aab8d152f6c781389fbca554564
+head  : ff83cf2ae0b77356004d66719cb135a70517274bd23eb53d5f83516e011e76ed
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
